@@ -1,4 +1,10 @@
-# git-deploy-template
+# breakout-VueJS
+
+A simple breakout game made with HTML5 Canvas and Javascript (Vue.js). 
+
+Demo is available at: [https://chriswongatcuhk.github.io/git-deploy-template/](https://chriswongatcuhk.github.io/git-deploy-template/)
+
+Originated from [ikramzidane/breakout-JS](https://github.com/ikramzidane/breakout-JS)
 
 > A Vue.js project
 
@@ -17,14 +23,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+# deploy on github pages
+npm run deploy 
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

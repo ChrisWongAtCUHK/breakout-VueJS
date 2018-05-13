@@ -2,7 +2,7 @@
 
 A simple breakout game made with HTML5 Canvas and Javascript (Vue.js). 
 
-Demo is available at: [https://chriswongatcuhk.github.io/git-deploy-template/](https://chriswongatcuhk.github.io/git-deploy-template/)
+Demo is available at: [https://chriswongatcuhk.github.io/breakout-VueJS/](https://chriswongatcuhk.github.io/breakout-VueJS/)
 
 Originated from [ikramzidane/breakout-JS](https://github.com/ikramzidane/breakout-JS)
 
